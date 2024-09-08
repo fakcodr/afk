@@ -9,8 +9,8 @@
   "author": "MannuG",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.3.3",
-    "fs": "0.0.1-security",
-    "mineflayer": "^2.37.1"
+    "config": "^3.3.12",
+    "fs": "0.0.2",
+    "mineflayer": "^2.41.0"
   }
 }
